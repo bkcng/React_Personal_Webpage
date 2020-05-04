@@ -1,0 +1,16 @@
+.background {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.header {
+  font-family: 'Satisfy', cursive;
+  font-style: italic;
+  display: flex;
+  flex-direction: column;
+  padding-left: 10%;
+  padding-top: 10%;
+  color: black;
+}
