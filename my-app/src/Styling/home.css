@@ -11,6 +11,10 @@
   display: flex;
   flex-direction: column;
   padding-left: 10%;
-  padding-top: 10%;
+  padding-top: 2%;
   color: black;
+}
+
+.intro {
+  padding-top: 2%;
 }
